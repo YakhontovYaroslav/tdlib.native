@@ -1,6 +1,7 @@
 [submodule "td"]
 	path = td
 	url = https://github.com/YakhontovYaroslav/td.git
+	branch = v1.8.12
 [submodule "tdsharp"]
 	path = tdsharp
 	url = https://github.com/egramtel/tdsharp.git
